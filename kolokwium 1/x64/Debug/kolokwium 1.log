@@ -1,0 +1,4 @@
+﻿  kolokwium 1.cpp
+D:\struskawka\kolokwium 1\kolokwium 1\kolokwium 1.cpp(9,11): warning C4930: "bagietka bagietka1(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+D:\struskawka\kolokwium 1\kolokwium 1\chlebek.hpp(55): warning C4715: "piecz”: niewszystkie ścieżki kodu zwracają wartość
+  kolokwium 1.vcxproj -> D:\struskawka\kolokwium 1\x64\Debug\kolokwium 1.exe
